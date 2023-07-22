@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigBoyBrody
-- 👀 I’m interested in coding obviously but I want to be a Game Developer
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in coding obviously but I want to be a Software Engineer and maybe even and entrepreneur
+- 🌱 I’m currently learning Python, c#, Html, 
 - 📫 How to reach me bigboybrody1234@gmail.com
 
 <!---
